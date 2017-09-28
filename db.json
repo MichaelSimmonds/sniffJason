@@ -1,12 +1,15 @@
 {
   "content_chart":{
-  	"xAxis-labels": ["Jam", "Feb", "Mar", "Apr", "May", "Jun",
+  	"xAxis-labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
             "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
   	"channels-data": [24, 30, 30, 45, 35, 35, 35, 38, 40, 40, 40, 45],
   	"videos-data": [110 , 120, 120, 200, 145, 148, 160, 180, 200, 210, 230, 254]
   },
   "inventory_chart": {
-    "name": "typicode"
+     "xAxis-labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+            "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+  	"campaigns-data": [39, 50, 87, 55, 58, 60, 68, 68, 72, 72, 80, 87],
+  	"inventory-data": [700, 750, 1230, 850, 852, 920, 960, 1000, 1020, 1100, 1140, 1230]
   },
   "location_chart": {
   	"name": "location"
