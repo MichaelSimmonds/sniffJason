@@ -1,0 +1,17 @@
+{
+  "content_chart":{
+  	"xAxis-labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+            "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+  	"channels-data": [24, 30, 30, 30, 35, 35, 35, 38, 40, 40, 40, 45],
+  	"videos-data": [110 , 120, 120, 125, 145, 148, 160, 180, 200, 210, 230, 254]
+  },
+  "inventory_chart": {
+    "name": "typicode"
+  },
+  "location_chart": {
+  	"name": "location"
+  },
+  "devices_chart": {
+  	"name": "location"
+  }
+}
